@@ -10,8 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6722ba0-4b39-4407-8ba9-091e02d437e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="a6722ba0-4b39-4407-8ba9-091e02d437e9" name="Default Changelist" comment="push primo esercizio">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pari-o-dispari/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/pari-o-dispari/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +28,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
@@ -40,8 +42,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603284338117</updated>
-      <workItem from="1603284339293" duration="41000" />
+      <workItem from="1603284339293" duration="3122000" />
     </task>
+    <task id="LOCAL-00001" summary="push primo esercizio">
+      <created>1603284399309</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603284399309</updated>
+    </task>
+    <task id="LOCAL-00002" summary="push primo esercizio">
+      <created>1603284461834</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603284461834</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -57,5 +74,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push primo esercizio" />
+    <option name="LAST_COMMIT_MESSAGE" value="push primo esercizio" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="219" y="126" key="Vcs.Push.Dialog.v2" timestamp="1603284466889">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="219" y="126" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603284466889" />
   </component>
 </project>
